@@ -361,5 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/ShopificationApi/obj/Debug/net8.0/ShopificationApi.AssemblyInfo.cs
-/ShopificationApi/obj/Debug/net8.0/ShopificationApi.AssemblyInfoInputs.cache
